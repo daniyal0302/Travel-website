@@ -1,0 +1,36 @@
+/* body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+    #spinnerDiv {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+     /* Animation for fade-in effect */
+     @keyframes fadeIn {
+        from {
+            opacity: 0;
+        }
+        to {
+            opacity: 1;
+        }
+    }
+
+    /* Hide the navbar initially */
+    #navbarDiv {
+        display: none;
+    }
+
+    /* Apply fade-in animation to navbar */
+    #navbarDiv.show {
+        animation: fadeIn 0.5s ease forwards;
+    }
+.loadersize{
+    width: 300px;
+}

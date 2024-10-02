@@ -1,0 +1,57 @@
+.title-wrap {
+    text-align: center;
+    padding: 1.4rem 0;
+    margin-bottom: 2rem;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  .sm-title {
+    display: block;
+    color: #787878;
+    font-weight: 300;
+    font-size: 1.2rem;
+    padding-bottom: 1rem;
+    max-width: 450px;
+    margin-right: auto;
+    margin-left: auto;
+    line-height: 1.7;
+  }
+  .lg-title {
+    font-size: 1.8rem;
+  }
+  .about-right h2 {
+    margin-bottom: 2.5rem;
+  }
+  .my-2{
+    margin: 2rem 0;
+}
+img {
+    width: 100%;
+    display: block;
+  }
+  @media screen and (min-width: 992px) {
+    .about-row {
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      align-items: center;
+    }
+
+  }
+  @media screen and (min-width: 992px) {
+    .about-left {
+      margin: 0;
+    }
+  }
+  @media screen and (min-width: 992px) {
+    .test-row, .about-row, .contact-row {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 2rem;
+    }
+  }
+
+  @media screen and (min-width: 992px) {
+  .imgpadding img{
+    margin-top: 5rem;
+  }
+}

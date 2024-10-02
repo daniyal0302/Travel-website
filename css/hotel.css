@@ -1,0 +1,36 @@
+@media (min-width: 992px){
+.col-lg-14 {
+    flex: 0 0 auto;
+    width: 24.33333%;
+}
+.tophotel-seeall{
+  font-size: 20px;
+  cursor: pointer;
+  text-decoration: underline;
+  
+}
+}
+@media (min-width: 768px){
+    .tophotel-seeall{
+        font-size: 18px;
+        cursor: pointer;
+        text-decoration: underline;
+        
+      }
+}
+@media (min-width: 558px){
+    .tophotel-seeall{
+        font-size: 18px;
+        cursor: pointer;
+        text-decoration: underline;
+        
+      }
+}
+@media (min-width: 320px){
+    .tophotel-seeall{
+        font-size: 18px;
+        cursor: pointer;
+        text-decoration: underline;
+        
+      }
+}
