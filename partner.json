@@ -1,0 +1,21 @@
+{
+    "90Travel": {
+        
+        "duration": "5 days",
+        "description": "We develop custom made programs for corporate clients, offering special solutions for their specific requirements.",
+        "image": "img/+90Travel&Events Küçük Logo.jpg"
+    },
+    "Booking":{
+        
+        "duration": "4 days",
+        "description": "Turkey is one of our most popular holiday destinations during the summer months, with its beautiful beaches.",
+        "image": "img/partner-01.jpg"
+    },
+    "Thailand":{
+        
+        "duration": "4 days",
+        "description": "Thailand will impress you at every turn. And then there’s the food.From its enchanting rainforests, rambling mountains",
+        "image": "img/thailandnew.jpg"
+    }
+
+}

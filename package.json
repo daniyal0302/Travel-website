@@ -1,0 +1,69 @@
+{
+    "Dubai": {
+        
+        "duration": "5 days",
+        "description": "Dubai is home to the world's tallest building, the most gargantuan mall and the largest indoor ski slope.",
+        "image": "img/dubai-newVisa.jpg"
+    },
+    "Turkey":{
+        
+        "duration": "4 days",
+        "description": "Turkey is one of our most popular holiday destinations during the summer months, with its beautiful beaches.",
+        "image": "img/turkeyVisa.jpg"
+    },
+    "Thailand":{
+        
+        "duration": "4 days",
+        "description": "Thailand will impress you at every turn. And then there’s the food.From its enchanting rainforests, rambling mountains",
+        "image": "img/thailandnew.jpg"
+    },
+    "Bangkok":{
+        
+        "duration": "4 days",
+        "description": "Bangkok, city, capital, and chief port of Thailand. It is the only cosmopolitan city in a country of small towns and villages.",
+        "image": "img/bangkok.jpg"
+    },
+    "Phuket":{
+        
+        "duration": "4 days",
+        "description": "Phuket province is located in southern Thailand. It is the biggest Island of Thailand and sits on the Andaman sea.",
+        "image": "img/Phuket.jpg"
+    },
+    "Pattaya":{
+        "duration": "4 days",
+        "description": "Pattaya is a city on Thailand’s eastern Gulf coast known for its beaches A quiet fishing village as recently as the 1960s.",
+        "image": "img/Pattaya.jpg"
+    },
+    "Baku":{
+        "duration": "4 days",
+        "description": "Baku, city, capital of Azerbaijan. It lies on the western shore of the Caspian Sea and the southern side of the Abşeron Peninsula.",
+        "image": "img/baku.jpg"
+    },
+    "Malaysia":{
+        "duration": "4 days",
+        "description": "Travel around to experience the remarkable treasures and the hidden gems in Malaysia. Each state offers a unique Malaysian experience for all.",
+        "image": "img/malaysia-newVisa.jpg"
+    },
+    "Kuala Lumpur":{
+        "duration": "4 days",
+        "description": "A skyline punctuated by minarets, Mogul-style domes and skyscrapers; colorful, food-stall-lined streets shaded by a leafy canopy of banyan trees.",
+        "image": "img/kuala-lumpur-new.jpg"
+    },
+    "Maldives":{
+        "duration": "4 days",
+        "description": "With 26 atolls and 1,000+ islands spread out across the idyllic waters of the Indian Ocean, the Maldives are an island-hopper’s dream. ",
+        "image": "img/maldives-newVIsa.jpg"
+    },
+    "Singapore":{
+        "duration": "4 days",
+        "description": "Singapore is the largest port in Southeast Asia and one of the busiest in the world.It consists of the diamond-shaped Singapore Island ",
+        "image": "img/singapore-newVisa.jpg"
+    
+    },
+    "Sri Lanka":{
+        "duration": "4 days",
+        "description": "Turkey is one of our most popular holiday destinations during the summer months, with its beautiful beaches..",
+        "image": "img/srilanka.jpg"
+    }
+ 
+}

@@ -1,0 +1,222 @@
+{
+  "Mövenpick Hotel Karachi": {
+    "imageSrc": "img/movenpick.jpg",
+    "title": "Mövenpick Hotel Karachi",
+    "subtitle": "5 Star Hotel",
+    "rating": 5,
+    "description": "Stay at the 5-star Mövenpick Hotel Karachi, perfect for both business and leisure travelers. Located just 17 kilometers from Jinnah International Airport and situated in the center of Karachi’s business district. Business travelers can make use of our extensive conference and event facilities for up to 1,000 people. Kemari Harbour and the city’s nearby beaches are leisure highlights and there is easy access to local shopping and sightseeing destinations.",
+      "images": {
+        "main": "img/movenpick.jpg",
+        "room1": "img/movenpickroom1.jpg",
+        "pool": "img/Swimming-pool-movenpick-Hotel-karachi.jpg"
+      },
+      "address": "Club Road, 75530 Karachi, Pakistan",
+      "location": {
+       "maplink": "https://maps.app.goo.gl/xojoi83TbxejuS5u6"
+      },
+      "description1": ["Featuring 4 dining options, the Mövenpick Hotel Karachi features an outdoor pool, fitness center, free parking, and luxurious rooms with city views. Conference and banquet facilities can be arranged, and the friendly staff is available round-the-clock."],
+      "description2": [ "Fitted with carpet floors, these air-conditioned rooms are elegantly furnished with a safe, minibar, electric kettle, and a flat-screen TV. The private bathroom comes equipped with a shower facility, bathtub, and free toiletries. Hairdryer and ironing facilities are also provided."],
+      "description3": [ "Guests staying at Mövenpick Hotel Karachi can request laundry, dry cleaning, and massage services. Car rentals and tour arrangements can be made, and luggage storage and currency exchange are also provided. Wi-Fi access is available for a fee."],
+      "description4": [  "Serving authentic Lebanese cuisine, the Kabab-Ji Restaurant features a dinner menu, and Al Bustan restaurant provides buffets of Pakistani and International dishes. Tasty Italian desserts and pasta are available at La Mamma and local snacks can be enjoyed at the 24-hour coffee shop."]
+  },
+  "Karachi Marriott Hotel": {
+    "imageSrc": "img/marriott.jpg",
+    "title": "Karachi Marriott Hotel",
+    "subtitle": "5 Star Hotel",
+    "rating": 5,
+    "description": "Situated in Karachi, Karachi Marriott Hotel offers art deco 4-star accommodation, as well as an indoor pool and a sauna. It also provides a coffee bar, valet parking and an express check-in and check-out feature.There are a range of facilities available to guests of the hotel, such as an airport shuttle, babysitting/child services and a 24-hour reception. There is also a BBQ area on-site for guests to enjoy. Also available for guests are a hair salon, a games room and laundry facilities.",
+    "images": {
+      "main": "img/marriott.jpg",
+      "room1": "img/marrithottle1.jpg",
+      "pool": "img/marrithottle2.jpg"
+    },
+    "address": "9 Abdullah Haroon Road, 75530 Karachi, Pakistan",
+      "location": {
+       "maplink": "https://maps.app.goo.gl/xojoi83TbxejuS5u6"
+      },
+    "description1": ["Located opposite Frere Hall and Park, the 5-star Karachi Marriott Hotel offers modern and luxurious rooms with a flat-screen cable TV. It features 2 restaurants , spa and outdoor swimming pool."],
+    "description2": [ "The air-conditioned and fully carpeted rooms each have its own private bathroom, which include free toiletries, shower, hairdryer and slippers. An electric kettle and minibar can be found in each room."],
+    "description3": [ "Karachi Marriott Hotel is 300 meters from the Hockey Club of Pakistan and 600 meters from the Holy Trinity Cathedral. National Museum of Pakistan is 1.8 km away. Karachi Jinnah International Airport is 15 km from the hotel."],
+    "description4": [ "Guests have access to a 24-hour business center while those staying on the executive level can use a private lounge. Conveniently located in the hotel is a drugstore, florist and currency exchange. Laundry and dry cleaning services are available at an extra cost."]
+  },
+  "Pearl-Continental Hotel Karachi": {
+    "imageSrc": "img/pc.jpg",
+    "title": "Pearl-Continental Hotel Karachi",
+    "subtitle": "5 Star Hotel",
+    "rating": 5,
+    "description": "Overlooking the sprawling city, Pearl-Continental Hotel Karachi is a part of the most significant chain of hotels in Pakistan. The Hotel is perfect for both business and leisure travellers. Guests can choose from a variety of rooms and suites to enjoy their stay at the five-star hotel.",
+    "images": {
+      "main": "img/pc.jpg",
+      "room1": "img/peal-continental1.jpg",
+      "pool": "img/peal-continental2.jpg"
+    },
+    "address": "Club Road, Karachi, Sindh, 75530 Karachi, Pakistan",
+      "location": {
+       "maplink": "https://maps.app.goo.gl/xojoi83TbxejuS5u6"
+      },
+    "description1": ["Located in the commercial centre of south central Karachi, The 5-star Pearl Continental Hotel offers luxurious and modern rooms with free Wi-Fi. 6 dining options and an indoor pool await guests."],
+    "description2": ["Air-conditioned and fully carpeted, each room features a flat-screen satellite TV, minibar and iron. Private bathroom includes a hair dryer and shower. A seating area, safe and coffee machine is standard in all rooms."],
+    "description3": ["Guests who drive enjoy valet and free private parking. Conveniences include a car rental, concierge and tour desk."],
+    "description4": ["A variety of dining options are available at Pearl Continental Hotel, Karachi. These include European dishes at Marco Polo Restaurant and Japanese meals at Sakura Restaurant. Chandni Restaurant offers Pakistani cuisine. There are also restaurants serving Chinese and American food."]
+  },
+  "Islamabad Serena Hotel": {
+    "imageSrc": "img/serenshotel.jpg",
+    "title": "Islamabad Serena Hotel",
+    "subtitle": "5 Star Hotel",
+    "rating": 5,
+    "description": "Islamabad Serena Hotel welcomes guests with an outdoor swimming pool and relaxing spa treatments. In the capital city of Islamabad, the hotel is 7.5 miles from Chaklala Airport and provides free airport shuttle services.Islamabad Serena Hotel houses a fitness center and sauna facilities. A 24-hour front desk can assist with dry-cleaning services, currency exchange services and free parking. Guests can also utilize the business center and barbecue facilities.",
+    "images": {
+        "main": "img/serenshotel.jpg",
+        "room1": "img/serenahotal1.jpg",
+        "pool": "img/serenahotal2.jpg"
+      },
+      "address": " Khayaban-e-Suharwardy, G-5/1., 44000 Islamabad, Pakistan",
+      "location": {
+       "maplink": "https://maps.app.goo.gl/xojoi83TbxejuS5u6"
+      },
+      "description1": ["Islamabad Serena Hotel welcomes guests with an outdoor swimming pool and relaxing spa treatments. Located in the capital city of Islamabad, the hotel is situated 12 km away from Chaklala Airport and provides free airport shuttle services."],
+      "description2": [ "Rooms are stylish and tastefully furnished. All of the rooms come with a satellite TV, air conditioning and a minibar. Modern en suite bathrooms will provide plush bathrobes and free toiletries."],
+      "description3": [ "Islamabad Serena Hotel houses a fitness centre and sauna facilities. A 24-hour front desk can assist with dry-cleaning services, currency exchange services and free parking. Guests can also utilize the business centre and barbeque facilities."],
+      "description4": [ "Local Pakistani-style meals including popular Western cuisines can be enjoyed at the on-site restaurant. In-room dining options are possible."]
+  },
+  "Ambiance Boutique Art Hotel Lahore": {
+    "imageSrc": "img/ambiancehotel.jpg",
+    "title": "Ambiance Boutique Art Hotel Lahore",
+    "subtitle": "5 Star Hotel",
+    "rating": 5,
+    "description": "Ambiance Boutique Art Hotel Lahore provides accommodations with a shared lounge, free private parking and a restaurant. This 5-star hotel offers an ATM and a business center. The property has a 24-hour front desk, airport transportation, room service and free WiFi throughout the property.",
+    "images": {
+      "main": "img/ambiancehotel.jpg",
+      "room1": "img/ambiancehotel1.jpg",
+      "pool": "img/ambiancehotel2.jpg"
+    },
+    "address": " Off-College Rd, 15-S Block S Gulberg II, Gulberg, 54600 Lahore, Pakistan –",
+    "location": {
+     "maplink": "https://maps.app.goo.gl/xojoi83TbxejuS5u6"
+    },
+    "description1": [" Ambiance Boutique Art Hotel Lahore provides accommodation with a shared lounge, free private parking and a restaurant. This 5-star hotel offers an ATM and a business centre. The accommodation features a 24-hour front desk, airport transfers, room service and free WiFi throughout the property."],
+    "description2": [ "The hotel will provide guests with air-conditioned rooms offering a wardrobe, a kettle, a fridge, a minibar, a safety deposit box, a flat-screen TV and a private bathroom with a shower. At Ambiance Boutique Art Hotel Lahore every room is equipped with bed linen and towels."],
+    "description3": [ "Nairang Galleries is 3.2 km from the accommodation, while Gaddafi Stadium is 3.3 km away. The nearest airport is Allama Iqbal International Airport, 4 km from Ambiance Boutique Art Hotel Lahore."],
+    "description4": [  "Couples particularly like the location — they rated it 9.5 for a two-person trip."]
+  },
+  "Luxus Grand Hotel": {
+    "imageSrc": "img/luxushotel.jpg",
+    "title": "Luxus Grand Hotel",
+    "subtitle": "5 Star Hotel",
+    "rating": 5,
+    "description": "Luxus Grand Hotel features free WiFi access, free private parking. Guests can enjoy the on-site multiple cuisine restaurant, gym and swimming pool.Each room is fitted with a flat-screen TV with satellite channels. Certain rooms include a sitting area for your convenience. You will find kettle with complimentary tea coffee sachets in the room. The rooms are fitted with a spacious private bathroom with bathrobes for him and her, soft towels, slippers and free toiletries and amenities.",
+    "images": {
+      "main": "img/luxushotel.jpg",
+      "room1": "img/luxushotel1.jpg",
+      "pool": "img/luxushotel2.jpg"
+    },
+    "address": "4-Egerton Road, Opposite Aiwan-e-Iqbal, Lahore., 54000 Lahore, Pakistan –",
+      "location": {
+       "maplink": "https://maps.app.goo.gl/xojoi83TbxejuS5u6"
+      },
+    "description1": [" The Luxus Grand Hotel features free WiFi access, free private parking. Guests can enjoy the on-site multiple cuisine restaurant, gym and swimming pool."],
+    "description2": [ "Each room is fitted with a flat-screen TV with satellite channels. Certain rooms include a sitting area for your convenience. You will find kettle with complimentary tea coffee sachets in the room. The rooms are fitted with a spacious private bathroom with bathrobes for him and her, soft towels, slippers and free toiletries and amenities. You will be welcome with a fruit basket and complimentary mineral water bottles. The rooms are equipped with low noise air conditioning and double glazed windows to block the noise of the city for better comfort while sleeping."],
+    "description3": [ "You will find a 24-hour front desk at the property and 24-hour room service."],
+    "description4": [ "The hotel also provides car rental. Alhamra Arts Center is 400 meters from Luxus Grand Hotel, and Lahore Zoo is 0.6 km from the property. The hotel regularly organizes tours to Wagah border parade and heritage sites of Lahore."]
+  },
+  "Avari Lahore Hotel": {
+    "imageSrc": "img/avarihotel.jpg",
+    "title": "Avari Lahore Hotel",
+    "subtitle": "5 Star Hotel",
+    "rating": 5,
+    "description": "Offering the facilities and benefits of an outdoor swimming pool and spa and wellness center, Avari Lahore Hotel is located just 5 mi from the Allama Iqbal Airport. Free WiFi access is available.Each room here will provide you with a flat-screen cable TV, mini-bar and tea/coffee maker.",
+    "images": {
+      "main": "img/avarihotel.jpg",
+      "room1": "img/avarihotel1.jpg",
+      "pool": "img/avarihotel2.jpg"
+    },
+    "address": "Club Road, 75530 Karachi, Pakistan",
+      "location": {
+       "maplink": "https://maps.app.goo.gl/xojoi83TbxejuS5u6"
+      },
+    "description1": ["Featuring 4 dining options, the Mövenpick Hotel Karachi features an outdoor pool, fitness center, free parking, and luxurious rooms with city views. Conference and banquet facilities can be arranged, and the friendly staff is available round-the-clock."],
+    "description2": [ "Fitted with carpet floors, these air-conditioned rooms are elegantly furnished with a safe, minibar, electric kettle, and a flat-screen TV. The private bathroom comes equipped with a shower facility, bathtub, and free toiletries. Hairdryer and ironing facilities are also provided."],
+    "description3": [ "Guests staying at Mövenpick Hotel Karachi can request laundry, dry cleaning, and massage services. Car rentals and tour arrangements can be made, and luggage storage and currency exchange are also provided. Wi-Fi access is available for a fee."],
+    "description4": [  "Serving authentic Lebanese cuisine, the Kabab-Ji Restaurant features a dinner menu, and Al Bustan restaurant provides buffets of Pakistani and International dishes. Tasty Italian desserts and pasta are available at La Mamma and local snacks can be enjoyed at the 24-hour coffee shop."]
+  },
+  "The Nishat Hotel Johar Town": {
+    "imageSrc": "img/nishathotel.jpg",
+    "title": "The Nishat Hotel Johar Town",
+    "subtitle": "5 Star Hotel",
+    "rating": 5,
+    "description": "Welcome to The Nishat Hotel, your hidden sanctuary in the heart of Gulberg Lahore. We pride ourselves on providing unparalleled comfort and unmatched luxury to our guests. Whether you’re here for business or leisure, our prime location, along with our exceptional amenities and personalised services, ensure you go home with a memorable travel experience. Explore our range of modern rooms in historic Lahore and indulge in a truly lavish stay with us.",
+    "images": {
+      "main": "img/nishathotel.jpg",
+      "room1": "img/nishathotel1.jpg",
+      "pool": "img/nishathotel2.jpg"
+    },
+    "address": "Abdul Haque Road, 54600 Lahore, Pakistan",
+      "location": {
+       "maplink": "https://maps.app.goo.gl/xojoi83TbxejuS5u6"
+      },
+    "description1": ["Featuring free WiFi, The Nishat Hotel, Johar Town is city within a city which features Pakistan biggest Emporium Mall and the most spacious banquet halls, The Nishat Banquets. Guests can enjoy the on-site restaurant. Free private parking is available on site."],
+    "description2": [ "Every room at this hotel is air conditioned and comes with a flat-screen TV. Some rooms include a seating area to relax in after a busy day. Every room is fitted with a private bathroom. For your comfort, you will find bathrobes and slippers."],
+    "description3": [ "There is free shuttle service at the property."],
+    "description4": [ "Wagah Border is 33 km from The Nishat Hotel Johar Town, while Walton Airport is 8 km from the property. Allama Iqbal Airport is 15 km away."]
+  },
+  "Indus Hotel Hyderabad": {
+    "imageSrc": "img/ndus-hotel-hyderabad-Pakistan-.png",
+    "title": "Indus Hotel Hyderabad",
+    "subtitle": "5 Star Hotel",
+    "rating": 5,
+    "description": "Indus Hotel is located in Hyderabad, Sindh, Pakistan. It is located on Thandi Sarak, a busy commercial street in the city center. Indus Hotel is a good value for the price. It is a clean, comfortable hotel with modern amenities and a convenient location. The staff is friendly and helpful, and the food is delicious. I would recommend this hotel to anyone looking for a comfortable and affordable place to stay in Hyderabad",
+    "images": {
+      "main": "img/ndus-hotel-hyderabad-Pakistan-.png",
+      "room1": "img/hotel-indus-1.jpg",
+      "pool": "img/hotel-indus-2.jpg"
+    },
+    "address": "Thandi Sarak، opposite Niaz Stadium, GOR Colony, Hyderabad, Sindh 71000",
+      "location": {
+       "maplink": "https://maps.app.goo.gl/xojoi83TbxejuS5u6"
+      },
+    "description1": ["The rooms at the Indus provide guests with a flat-screen TV with satellite channels, and comforts such as an ironing set and air conditioner. Nice touches to enhance your stay include a bathtub, a separate toilet and a sink, along with a shower cap and towels."],
+    "description2": [ "Every room at this hotel is air conditioned and comes with a flat-screen TV. Some rooms include a seating area to relax in after a busy day. Every room is fitted with a private bathroom. For your comfort, you will find bathrobes and slippers."],
+    "description3": [ "One of the standout features of the Indus Hotel Hyderabad is its amenities. The hotel offers an impressive range of facilities, including a fitness center, conference halls, meeting rooms, business center and multiple dining options. The on-site restaurants serve up a delicious variety of cuisine, and the staff is always on hand to help with any requests or recommendations."],
+    "description4": [ "One of the best things about the Indus Hotel Hyderabad is the staff. They are extremely friendly, attentive, and always willing to go above and beyond to ensure guests have a pleasant stay. From the moment you arrive, you are made to feel welcome, and the staff is always on hand to answer any questions or help with any requests."]
+  },
+  "Centaurus Hotel Suites": {
+    "imageSrc": "img/centaurushotel.jpg",
+    "title": "Centaurus Hotel Suites",
+    "subtitle": "5 Star Hotel",
+    "rating": 5,
+    "description": "Envoy Centaurus Hotel is situated in the splendidly magnificent capital city Islamabad. Elegantly designed interior and edgy exterior paired up with unparalleled luxury and soothing ambiance forms a perfect stay experience. Moreover carefully curated cuisine can be relished inside the sophisticatedly designed restaurant. The hotel has an easy access to airport and all the major tourist destination in Islamabad. With years of experience the hotel offers outstanding service and a wholesome experience.",
+    "images": {
+      "main": "img/centaurushotel.jpg",
+      "room1": "img/centaurushotel1.jpg",
+      "pool": "img/centaurushotel2.jpg"
+    },
+    "address": "Jinnah Avenue The Centaurus Serviced Apartments, Blue Area, 46000 Islamabad, Pakistan ",
+      "location": {
+       "maplink": "https://maps.app.goo.gl/xojoi83TbxejuS5u6"
+      },
+    "description1": ["Centaurus Hotel Suites offers accommodation with a sauna, a hot spring bath and a hot tub. The property has mountain and city views, and is 12 km from Lake View Park. The apartment also features free WiFi, free private parking and facilities for disabled guests."],
+    "description2": [ "Some units in the apartment complex have private entrance and are fitted with desk and wardrobe. Some of the units have a cable flat-screen TV, a fully equipped kitchen with an oven, and a private bathroom with a hot tub and bathrobes. At the apartment complex, some units are allergy-free and soundproof."],
+    "description3": [ "Guests can stay active with the fitness classes held in house. For guests with children, the apartment provides kids pool and an indoor play area. A car rental service is available at Centaurus Hotel Suites."],
+    "description4": [ "Ayūb National Park is 20 km from the accommodation, while Taxila Museum is 36 km from the property. The nearest airport is Islamabad International Airport, 31 km from Centaurus Hotel Suites."]
+  },
+  "Ramada by Wyndham Murree Lower Topa Resort": {
+    "imageSrc": "img/murree lower topa resort.jpg",
+    "title": "Ramada by Wyndham Murree Lower Topa Resort",
+    "subtitle": "5 Star Hotel",
+    "rating": 5,
+    "description": "Envoy Centaurus Hotel is situated in the splendidly magnificent capital city Islamabad. Elegantly designed interior and edgy exterior paired up with unparalleled luxury and soothing ambiance forms a perfect stay experience. Moreover carefully curated cuisine can be relished inside the sophisticatedly designed restaurant. The hotel has an easy access to airport and all the major tourist destination in Islamabad. With years of experience the hotel offers outstanding service and a wholesome experience.",
+    "images": {
+      "main": "img/murree lower topa resort.jpg",
+      "room1": "img/murree lower topa resort1.jpg",
+      "pool": "img/murree lower topa resort2.jpg"
+    },
+    "address": "Main Expressway, Lower Topa, Murree, 47150, 47150 Murree, Pakistan",
+      "location": {
+       "maplink": "https://maps.app.goo.gl/xojoi83TbxejuS5u6"
+      },
+    "description1": ["Located in Murree, Ramada by Wyndham Murree Lower Topa Resort provides a garden. This 4-star hotel offers room service and a 24-hour front desk. There is a terrace and guests can make use of free WiFi and free private parking."],
+    "description2": [ "The hotel will provide guests with air-conditioned rooms with a desk, a kettle, a fridge, a minibar, a safety deposit box, a flat-screen TV, a balcony and a private bathroom with a shower. At Ramada by Wyndham Murree Lower Topa Resort each room is fitted with bed linen and towels."],
+    "description3": [ "Breakfast is available daily, and includes buffet, à la carte and continental options. At the accommodation you will find a restaurant serving American, Chinese and local cuisine. Vegetarian, halal and vegan options can also be requested."],
+    "description4": [ "The nearest airport is Islamabad International Airport, 88 km from Ramada by Wyndham Murree Lower Topa Resort."]
+  }
+}

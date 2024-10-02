@@ -1,0 +1,157 @@
+{
+    "Hunza": {
+        "title":"Hunza",
+        "image": "img/iedgetravelwebpic/Hunza.jpg",
+        "images": {
+            "main": "img/iedgetravelwebpic/Hunza.jpg",
+            "room1": "img/iedgetravelwebpic/hunza1.jpg",
+            "pool": "img/iedgetravelwebpic/hunza2.jpg"
+          },
+          "description1": ["Marvel at the breathtaking Hunza Valley's terraced fields, ancient forts, and the serene turquoise waters of Attabad Lake."],
+          "description2": [ "Located amidst the majestic Karakoram Mountain range in northern Pakistan, the enchanting Hunza Valley beckons adventurous travelers seeking an unspoiled retreat. "],
+          "description3": [ " With its towering snow-capped peaks, shimmering glaciers, and pristine streams, this hidden treasure has emerged as a coveted destination for those craving an authentic off-the-beaten-path experience."],
+          "description4": [  "Nestled within the remote Gilgit-Baltistan region, bordering Afghanistan and China, the Hunza Valley is renowned for its natural splendor and rich cultural heritage."]
+    },
+    "Swat Valley":{
+        "title":"Swat Valley",
+        "description": "Delve into Swat's rich history, adorned with Buddhist relics, lush valleys, and the legendary white marble of Butkara Stupa.",
+        "image": "img/iedgetravelwebpic/swat valley.jpg",
+        "images": {
+            "main": "img/iedgetravelwebpic/swat valley.jpg",
+            "room1": "img/iedgetravelwebpic/Swat Valley1.jpg",
+            "pool": "img/iedgetravelwebpic/Swat Valley2.jpg"
+          },
+          "description1": ["Delve into Swat's rich history, adorned with Buddhist relics, lush valleys, and the legendary white marble of Butkara Stupa."],
+          "description2": [ "Swat Valley, often referred to as the 'Switzerland of Pakistan', captivates visitors with its majestic snow-capped peaks and stunning natural beauty. "],
+          "description3": [ " Despite its turbulent past as a Taliban stronghold, the valley has been transformed into a haven of tranquility and safety, thanks to dedicated efforts by the Pakistani military forces through special operations. "],
+          "description4": [  "Today, it stands as a beacon of peace, attracting both local and international tourists eager to explore its serene landscapes and rich cultural heritage."]
+    },
+    "Naran":{
+        "title":"Naran",
+       
+        "image": "img/iedgetravelwebpic/naran.jpg",
+        "images": {
+            "main": "img/iedgetravelwebpic/naran.jpg",
+            "room1": "img/iedgetravelwebpic/Naran1.jpg",
+            "pool": "img/iedgetravelwebpic/Naran2.jpg"
+          },
+          "description1": ["Gateway to the stunning Kaghan Valley, Naran offers trekking trails, lush meadows, and the majestic Saif-ul-Malook Lake."],
+          "description2": [ "Naran, nestled in the upper Kaghan Valley within Pakistan's Khyber Pakhtunkhwa province, is a captivating medium-sized town situated at an elevation of 2500 meters above sea level."],
+          "description3": [ "Renowned for its breathtaking beauty, it stands as one of the most picturesque destinations in the northern areas of Pakistan, drawing innumerable tourists and trekkers to its scenic landscapes."],
+          "description4": [  "Naran's pristine beauty and year-round charm make it a favored resort for travelers seeking unforgettable experiences amidst nature's splendor."]
+    },
+    "Kaghan":{
+        "title":"Kaghan",
+      
+        "image": "img/iedgetravelwebpic/kaghan.jpg",
+        "images": {
+            "main": "img/iedgetravelwebpic/kaghan.jpg",
+            "room1": "img/iedgetravelwebpic/Kaghan1.jpg",
+            "pool": "img/iedgetravelwebpic/Kaghan2.jpg"
+          },
+          "description1": ["Explore Kaghan's pristine beauty, from the enchanting Siri Paye Meadows to the dramatic Lulusar Lake surrounded by snow-capped peaks."],
+          "description2": [ "Kaghan Valley, a gem nestled in the Mansehra District of Hazara within Pakistan's Khyber Pakhtunkhwa Province, spans 160 kilometers and stands as a favored destination for summer vacations among both locals and international visitors alike. "],
+          "description3": [ "Central to the valley's charm is the Kunhar River, renowned for its abundant trout fish. Along its banks lie the quaint towns of Balakot, Paras, Mahandari, Kaghan, and Naran, each offering a unique glimpse into local culture and hospitality."],
+          "description4": [  "The warmth and simplicity of the local people add to the valley's appeal, while the presence of Gujar nomads enhances its cultural richness. "]
+    },
+    "Shogran":{
+        "title":"Shogran",
+      
+        "image": "img/iedgetravelwebpic/shogran.jpeg",
+        "images": {
+            "main": "img/iedgetravelwebpic/shogran.jpeg",
+            "room1": "img/iedgetravelwebpic/Shogran1.jpeg",
+            "pool": "img/iedgetravelwebpic/Shogran2.jpg"
+          },
+          "description1": ["Experience Dhogran's alpine charm, with panoramic views from the Chairlift and thrilling activities like paragliding and horse riding."],
+          "description2": [ "Khyber Pakhtunkhwa, Pakistan, boasts numerous stunning destinations, and among them lies the captivating Shogran Valley. Positioned as a hill station within the picturesque Kaghan Valley, Shogran sits majestically at an elevation of 2,362 meters above sea level."],
+          "description3": [ "The locals of Shogran exude warmth and hospitality, creating a welcoming atmosphere for visitors. Accommodation options such as hotels and motels are readily available at affordable rates, catering to the needs of tourists seeking comfort during their stay."],
+          "description4": [  "Adventure enthusiasts can indulge in a range of activities including hiking, trekking, and mountain climbing, making Shogran an ideal destination for both leisure and thrill seekers alike."]
+
+    },
+    "Kalam":{
+        "title":"Kalam",
+       
+        "image": "img/iedgetravelwebpic/Kalam.jpeg",
+        "images": {
+            "main": "img/iedgetravelwebpic/Kalam.jpeg",
+            "room1": "img/iedgetravelwebpic/Kalam2.jpg",
+            "pool": "img/iedgetravelwebpic/Kalam1.jpg"
+          },
+          "description1": ["Discover Kalam's idyllic beauty, from its lush forests and meandering rivers to the awe-inspiring glaciers of Ushu Valley."],
+          "description2": [ "Nestled within the Swat district of Khyber Pakhtunkhwa province in Pakistan, Kalam Valley stands as a breathtakingly picturesque destination. Surrounded by towering snow-capped peaks and verdant meadows, it is revered as one of Pakistan's most serene valleys."],
+          "description3": [ "Rich in biodiversity, Kalam Valley harbors a diverse array of flora and fauna, captivating nature enthusiasts with its unique offerings. Its mesmerizing beauty and convenient access to other tourist attractions in Swat have contributed to its increasing popularity among visitors."],
+          "description4": [  "Making it a must-visit destination for those seeking tranquility amidst nature's splendor."]
+    },
+    "Malam Jabba":{
+        "title":"Malam Jabba",
+       
+        "image": "img/iedgetravelwebpic/mala jabba.jpeg",
+        "images": {
+            "main": "img/iedgetravelwebpic/mala jabba.jpeg",
+            "room1": "img/iedgetravelwebpic/Malam Jabba2.jpg",
+            "pool": "img/iedgetravelwebpic/Malam Jabba1.jpg"
+          },
+          "description1": ["Embrace adventure at Malam Jabba, Pakistan's premier ski resort, offering skiing, zip-lining, and stunning mountain vistas."],
+          "description2": [ "Malam Jabba is renowned as one of the primary ski resorts in Pakistan, boasting the Malam Jabba Ski Resort, which is operated by the Pakistan Tourism Development Corporation. With a ski slope spanning approximately 800 meters and reaching a peak elevation of 2804 meters above sea level, it offers exhilarating skiing experiences amidst breathtaking mountain vistas."],
+          "description3": [ "This ski resort represents a collaborative effort between Pakistan and Austria, showcasing modern amenities such as roller/ice-skating rinks, chair lifts, skiing platforms, telecommunication facilities, and state-of-the-art snow clearing equipment. "],
+          "description4": [  "It stands as a premier destination for winter sports enthusiasts, providing an unforgettable blend of adventure and comfort in the heart of the mountains."]
+    },
+    "Neelum Valley":{
+        "title":"Neelum Valley",
+        
+        "image": "img/iedgetravelwebpic/Title-Neelum-Valley-Azad-Kashmir-300x200-01.jpg " ,
+        "images": {
+            "main": "img/iedgetravelwebpic/Title-Neelum-Valley-Azad-Kashmir-300x200-01.jpg ",
+            "room1": "img/iedgetravelwebpic/Neelum Valley2.jpg ",
+            "pool": "img/iedgetravelwebpic/neelum1.jpg "
+          },
+          "description1": ["Journey through Neelum Valley's azure streams, lush meadows, and dense forests, with highlights including Shounter Lake and Arang Kel."],
+          "description2": [ "Neelum Valley, nestled in Azad Kashmir, is celebrated as one of the region's most captivating destinations. Named after the meandering Neelum River, renowned for its snake-like curves and striking blue hue, it's often referred to as the PARADISE OF KASHMIR."],
+          "description3": [ "Located in the Kashmir Region, north and northeast of Muzaffarabad, Neelum Valley runs parallel to Kaghan Valley, distinguished by its snow-capped mountains towering 4000 meters above sea level. Comprising approximately 370 villages, it boasts stunning hills, valleys, and dense forests intersected by glistening streams and rivers."],
+          "description4": [  "Drawing countless tourists from across the country and beyond, Neelum Valley is renowned for its unparalleled beauty. Accessible from Kaghan Valley and Noori Top, as well as numerous minor passes, it offers a truly enchanting experience for nature enthusiasts and adventurers alike."]
+    },
+    "Skardu":{
+        "title":"Skardu",
+      
+        "image": "img/iedgetravelwebpic/Skardu.jpg",
+        "images": {
+            "main": "img/iedgetravelwebpic/Skardu.jpg",
+            "room1": "img/iedgetravelwebpic/Skardu2.jpg",
+            "pool": "img/iedgetravelwebpic/Skardu1.jpg"
+          },
+          "description1": ["Experience Skardu's rugged beauty, with its towering peaks, crystal-clear lakes like Shangrila Lake, and the historic Skardu Fort."],
+          "description2": [ "Skardu serves as a vital center for trade and transportation within the Baltistan region, positioned at the juncture of the Indus and Shigar Rivers. Surrounded by iconic mountain peaks like Broad Peak, Gasherbrum I-II, and the illustrious K2, it stands as a gateway to awe-inspiring natural wonders."],
+          "description3": [ "Enriched with a vibrant cultural legacy, Skardu boasts historical landmarks such as the Bhudha Rock and the majestic Kharpocho Fort, an imposing 16th-century fortress perched atop a hill, offering panoramic views of the town. Skardu is renowned for its traditional handicrafts, including exquisite woodcarvings and intricate embroidery, reflecting the region's rich artistic heritage."],
+          "description4": [  "Skardu is a mountain town in the Gilgit-Baltistan region of Pakistan. "]
+    },
+    "Deosai":{
+        "title":"Deosai",
+       
+        "image": "img/iedgetravelwebpic/Deosai.jpg",
+        "images": {
+            "main": "img/iedgetravelwebpic/Deosai.jpg",
+            "room1": "img/iedgetravelwebpic/Deosai1.jpg",
+            "pool": "img/iedgetravelwebpic/Deosai2.jpg"
+          },
+          "description1": ["Encounter the wild beauty of Deosai National Park, home to the endangered Himalayan brown bear and vast alpine meadows."],
+          "description2": [ "Deosai National Park stands as an unparalleled camping destination, offering an extraordinary experience amidst its vast expanse. Stretching over 3,000 square kilometers, it is the second largest alpine plateau globally, adorned with endless pastures adorned with wildflowers. Situated in Gilgit-Baltistan, northwest Pakistan, near India, Deosai captivates with its boundless greenery, earning its moniker as the 'Land of the Giants.'"],
+          "description3": [ "With an average elevation surpassing 4,000 meters, the panoramic views from Deosai are truly breathtaking. Its enchanting beauty and abundance of activities have cemented its place among the best destinations to explore in Pakistan. Whether you're admiring the sprawling landscapes or engaging in various recreational pursuits, Deosai National Park promises an unforgettable adventure for all who visit."],
+          "description4": [  "For a few days of trekking, including at least one stop at a Wildlife Project encampment, you'll reach the breathtaking Sheosar Lake. Since Deosai is a national park, trekking independently is not permitted, necessitating the presence of a guide for your journey."]
+    },
+    "Fairy Meadows":{
+        "title":"Fairy Meadows",
+       
+        "image": "img/iedgetravelwebpic/Fairy Meadows.jpg",
+        "images": {
+            "main": "img/iedgetravelwebpic/Fairy Meadows.jpg",
+            "room1": "img/iedgetravelwebpic/Fairy Meadows1.jpg",
+            "pool": "img/iedgetravelwebpic/Fairy Meadows2.jpg"
+          },
+          "description1": ["Unveil the enchanting Fairy Meadows, nestled beneath the towering Nanga Parbat, offering trekking adventures and unparalleled views."],
+          "description2": [ "Fairy Meadows epitomizes the charm of northern Pakistan, renowned for its lush green plateaus and the awe-inspiring presence of Nanga Parbat, the world's ninth tallest mountain, also known as the Killer Mountain, situated in the Diamer District of Gilgit-Baltistan."],
+          "description3": [ "An overnight camping experience or a stay in a traditional wooden cottage at Fairy Meadows offers a truly unique and enchanting encounter with the majestic North face of Nanga Parbat. The sight of the towering peak under a clear, full moonlit sky is nothing short of magical, showcasing the unparalleled beauty and serenity of nature."],
+          "description4": [  "The journey to Fairy Meadows begins with a stop at Raikot Bridge, situated at an altitude of 4595 feet (1400 meters) above sea level, approximately 540 kilometers (336 miles) from Islamabad via the Karakoram Highway."]
+    }
+ 
+}
